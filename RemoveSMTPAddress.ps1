@@ -1,4 +1,4 @@
-#Test script for hybrid situations to remove secondary SMTP address. 
+#Script for hybrid situations to remove secondary SMTP address. Hope it will help someone.
 
 # Output will be added to C:\temp folder. Change in where you want the log. Open the Remove-SMTP-Address.log with a text editor. For example, Notepad.
 Strart-Transcript -Path "C:\temp\Remove-SMTP-Address.log" -Append
